@@ -4,17 +4,13 @@ Ural State Mining University, Yekaterinburg
 Mining and mechanical, Mechanical engineering.(Honors degree)
 
 ### About me
+ Im looking for a job.
 
-Completed an online course at Hexlet School. Im looking for a job.
-
-### List of literature:
-- Robert C. Martin. 'The clean Coder: A Code of Conduct for Professional Programmers'
 
 ### Stack
 - Java Script/ Type Script
 - HTML
 - CSS
-- Ubuntu
 - Sass/scss
 - Git
 - webpack
