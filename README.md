@@ -1,7 +1,6 @@
 ### Education
 
 Ural State Mining University, Yekaterinburg
-Mining and mechanical, Mechanical engineering.(Honors degree)
 
 ### About me
  Im looking for a job.
